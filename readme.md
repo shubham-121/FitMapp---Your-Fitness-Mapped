@@ -7,3 +7,6 @@ The following project includes:
 How to use?
 Click anywhere on the map, a workout form will open. fill it and your workout will be rendered onto the map with a pin.
 click delete button to remove all the data from the local storage.
+
+Here's the website: 
+https://shubham-121.github.io/FitMapp---Your-Fitness-Mapped/
