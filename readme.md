@@ -10,3 +10,5 @@ click delete button to remove all the data from the local storage.
 
 Here's the website: 
 https://shubham-121.github.io/FitMapp---Your-Fitness-Mapped/
+
+Note - initial rendering of the map may take some time, depending on the leaflet server
